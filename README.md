@@ -1,9 +1,6 @@
-
-
-
-<img src="imagem" align="left" height="150px" width="150px">
-<h1>  🎲 Título </h1>
-<p> Um Breve relato </p>
+<img src="https://user-images.githubusercontent.com/63436406/159374980-48e023e1-ba73-4292-8388-59a5f4d5e653.png" align="left" height="150px" width="150px">
+<h1>  🎲 Criando o front-end com ReactJS </h1>
+<p> Desenvolva um e-commerce usando React com Redux, além de explorar duas das principais soluções de estilo, o Material UI e o Bootstrap. Para isso, a expert apresenta uma abordagem totalmente prática de desenvolvimento, onde dicas e boas práticas fazem parte do seu percurso. Como desafio, reproduza o projeto implementado pela expert e dê a ele a sua cara, criando novos estilos e personalizando a página inicial (como sugerido por ela). Use os links úteis para agilizar a sua jornada, vamos nessa!? </p>
 <br>
 
 ---
